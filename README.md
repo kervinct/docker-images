@@ -9,17 +9,6 @@
 - Logstash
 - Filebeat
 
-所有镜像已同步到时速云，可以直接使用。
-
-```
-index.tenxcloud.com/jimmy/centos:7.2.1511
-index.tenxcloud.com/jimmy/jdk:6u25
-index.tenxcloud.com/jimmy/jdk:7u80
-index.tenxcloud.com/jimmy/jdk:8u45
-index.tenxcloud.com/jimmy/logstash:5.3.0
-index.tenxcloud.com/jimmy/filebeat:5.4.0
-```
-
 ## CentOS 7.2.1511
 
 ### 特性
